@@ -12,7 +12,7 @@ img{
     height: 30%;
     margin: 1%;
     border-radius: 5%;
-
+    flex-wrap: wrap;
 }
 
 img:hover{
@@ -21,3 +21,4 @@ img:hover{
     transition-timing-function:  cubic-bezier(0.16, 1, 0.3, 1);
     tran
 }
+
